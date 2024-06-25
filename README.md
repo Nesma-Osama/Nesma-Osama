@@ -1,4 +1,4 @@
-<h1 align="center">Welcome toNesma Osama's profile 👋 </h1>
+<h1 align="center">Welcome to Nesma Osama's profile 👋 </h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Student+in+Computer+Engineering;Always+learn+new+things+!" alt="Typing SVG" /></a>
