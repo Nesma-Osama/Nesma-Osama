@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **AI , React **
+- 🌱 I’m currently learning **ML , DL **
 
 - 👯 Open to collaborate on innovative projects and open source
 
-- 💬 Ask me about **html , css , JavaScript , programming , react , mongodb , sql **
+- 💬 Ask me about **html , css , JavaScript , programming , react ,next.js , Tailwind CSS , mongodb , sql **
 
 - 📫 How to reach me **nesma.osama.ahmed@gmail.com**
 
