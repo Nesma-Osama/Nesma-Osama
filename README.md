@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **ML , DL **
+- 🌱 I’m currently learning **ML , DL , Computer Vision **
 
 - 👯 Open to collaborate on innovative projects and open source
 
-- 💬 Ask me about **html , css , JavaScript , programming , react ,next.js , Tailwind CSS , mongodb , sql **
+- 💬 Ask me about **html , css , JavaScript , programming , react ,next.js , Tailwind CSS , mongodb , sql , ML , DL , Computer Vision **
 
 - 📫 How to reach me **nesma.osama.ahmed@gmail.com**
 
