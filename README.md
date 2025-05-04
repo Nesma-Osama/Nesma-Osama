@@ -24,6 +24,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
 
 
