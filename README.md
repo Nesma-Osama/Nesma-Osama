@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **html , css , JavaScript , programming , react ,next.js , Tailwind CSS , mongodb , sql , ML , DL , Computer Vision **
 
+- 🧠 Previously a **Machine Learning Moderator** at **STP Student Activity**
+  
 - 📫 How to reach me **nesma.osama.ahmed@gmail.com**
 
 
